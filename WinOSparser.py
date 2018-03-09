@@ -9,7 +9,7 @@
 # Version 0.1 - Initial version - Currently installed OS, old installations, OS version, Prodcut ID, Current Build, Path, Name, Install date
 #
 # Credits 
-# Will Ballentin (Windows Registry library)
+# Willi Ballenthin (Windows Registry library)
 # Glenn P. Edwards Jr (reused code)
 
 from __future__ import print_function
@@ -21,7 +21,7 @@ import sys
 import time
 import re
 def usage():
-    return " This script parses current operating system information, old installations or upgrades from Windows 7,8 and 10. This script is written in python 3. For more information and example files visit www.github.com/DFIRdoctor \nUSAGE:\n\t OSparser.py <SYSTEM registry file> <SOFTWARE registry file> \nEXAMPLE:\n\t OSparser.py SYSTEM SOFTWARE \nEXAMPLE Python3:\n\t python3 OSparser.py SYSTEM SOFTWARE"
+    return " This script parses current operating system information, old installations or upgrades from Windows 7,8 and 10. This script is written in python 3. For more information and example files visit www.github.com/DFIRdoctor \nUSAGE:\n\t WinOSparser.py <SYSTEM registry file> <SOFTWARE registry file> \nEXAMPLE:\n\t WinOSparser.py SYSTEM SOFTWARE \nEXAMPLE Python3:\n\t python3 WinOSparser.py SYSTEM SOFTWARE"
 
 
 
