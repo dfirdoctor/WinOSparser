@@ -5,8 +5,12 @@
 # Current version 0.3
 # date 2018-02-09
 # Version 0.3 - Added Release ID (appears on some old installations)
+# Version 0.3 - Usage update and Windows executable added.
 # Version 0.2 - Cleanup code, added Registered Owner and Organization
 # Version 0.1 - Initial version - Currently installed OS, old installations, OS version, Prodcut ID, Current Build, Path, Name, Install date
+#
+# Todo
+# Add csv output
 #
 # Credits 
 # Willi Ballenthin (Windows Registry library)
@@ -21,7 +25,7 @@ import sys
 import time
 import re
 def usage():
-    return " This script parses current operating system information, old installations or upgrades from Windows 7,8 and 10. This script is written in python 3. For more information and example files visit www.github.com/DFIRdoctor \nUSAGE:\n\t WinOSparser.py <SYSTEM registry file> <SOFTWARE registry file> \nEXAMPLE:\n\t WinOSparser.py SYSTEM SOFTWARE \nEXAMPLE Python3:\n\t python3 WinOSparser.py SYSTEM SOFTWARE"
+    return "\n\t This script is written by Linus Nissi (while at Swedish Police Authority as Digital Forensic Examiner) and parses current operating system information, old installations or upgrades from Windows 7,8 and 10. \n\t Run the program through the Python code or the executable for Windows. \n\t This script is written in python 3. For more information and example files visit www.github.com/DFIRdoctor \nUSAGE:\n\t WinOSparser.py <SYSTEM registry file> <SOFTWARE registry file> \nEXAMPLE:\n\t WinOSparser.py SYSTEM SOFTWARE \nEXAMPLE Windows executable:\n\t WinOSparser.exe SYSTEM SOFTWARE"
 
 
 
