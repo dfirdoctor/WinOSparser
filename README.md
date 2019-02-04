@@ -21,9 +21,6 @@ python3 WinOSparser.py SYSTEM SOFTWARE<br/>
 <h2>Screenshots</h2>
 <a href="Screenshot WinOSparser"><img src="https://github.com/dfirdoctor/WinOSparser/blob/master/image/WinOSparser.png?raw=true" width="732" height="495" style="max-width:100%;"></a>
 
-<h2>Research</h2>
-I've done some minor research on when and how the keys are updated. Coming soon.
-
 <h2>Credits</h2>
 Willi Ballenthin (Windows Registry library) <br/>
 Glenn P. Edwards Jr (reused code)
