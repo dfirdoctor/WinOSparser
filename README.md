@@ -17,6 +17,7 @@ python3 WinOSparser.py SYSTEM SOFTWARE<br/>
   <br/>
   <b>Install</b><br/>
  git clone https://github.com/dfirdoctor/WinOSparser.git
+  https://github.com/dfirdoctor/WinOSparser/archive/master.zip
 </p> <br/>
 <h2>Screenshots</h2>
 <a href="Screenshot WinOSparser"><img src="https://github.com/dfirdoctor/WinOSparser/blob/master/image/WinOSparser.png?raw=true" width="732" height="495" style="max-width:100%;"></a>
