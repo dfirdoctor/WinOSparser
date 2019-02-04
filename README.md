@@ -16,7 +16,7 @@ python3 WinOSparser.py SYSTEM SOFTWARE<br/>
   Windows Registry python library from Willi Ballenthin (included)
   <br/>
   <b>Install</b><br/>
- git clone https://github.com/dfirdoctor/WinOSparser.git
+ git clone https://github.com/dfirdoctor/WinOSparser.git <br/>
  https://github.com/dfirdoctor/WinOSparser/archive/master.zip
 </p> <br/>
 <h2>Screenshots</h2>
